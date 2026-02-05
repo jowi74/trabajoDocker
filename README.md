@@ -25,4 +25,4 @@ Contenedor Nginx
 - Carga la configuración personalizada desde default.conf
 
 Default.conf
-- Contiene el proxy inverso y el servidor web
+- Configura Nginx como servidor web y proxy inverso.
